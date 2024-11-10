@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  color: aliceblue;
+  border: 2px;
+  border-color: aliceblue;
+  font-family: 'Minecraft', sans-serif;
+  display: flex ;
+ justify-content: center;
+  align-items: center;
+  margin: 20px;
+  width: 500px;
+}
+
+button {
+ background-color: black;
+ border: 0cm;
+ width: 150;
+
+}
+
+
+.passo {
+    display: none;
+
+}
+.passo.ativo {
+      display: block;
+
+}
+
+main{
+  text-align: center;
+  max-width: 95%;
+}
+
+img {
+   max-width: 95%;
+
+}
